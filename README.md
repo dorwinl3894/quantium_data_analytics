@@ -1,11 +1,25 @@
-# quantium_data_analytics
-Quantium Data Analytics Job Simulation on Forage. Completed using Python
+# Quantium Data Analytics Job Simulation
 
+## Overview
+This project was part of a job simulation for Quantium, focusing on Data Analytics and Commercial Insights. The tasks were completed using Python and involved comprehensive data analysis on transaction datasets.
 
-Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.
+## Project Goals
+- Develop expertise in data preparation and customer analytics.
+- Extract valuable insights from transaction data to deliver data-driven commercial recommendations.
+- Identify benchmark stores for uplift testing on trial store layouts.
+- Create comprehensive reports for the Category Manager, facilitating informed strategic decisions.
+  
+## Tools Used
+- Python
+- Excel
+- PowerPoint
+  
+## Key Analyses
+1. **Purchase Behavior Dataset Cleaning**: Initial step involving the cleaning of the purchase behavior dataset.
+2. **Data Cleaning for Transaction Data**: Preparing the transaction data for detailed analysis.
+3. **Customer Segment Analysis**: Investigating if customer segments affect total sales for each life stage, revealing that customer segments indeed impact sales.
+4. **Chip Pack Weight Influence**: Analyzing whether chip pack weight influences sales.
 
-Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
-
-Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
-
-Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+## Insights and Recommendations
+- Detailed findings on the impact of customer segments on sales, particularly highlighting the influence of life stages on purchase behavior.
+- Analysis of product attributes, such as chip pack weight, on sales performance.
